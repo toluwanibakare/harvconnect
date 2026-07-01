@@ -4,7 +4,7 @@ import pandas as pd
 
 app = FastAPI()
 
-ref_prices = pd.read_csv(r'C:\Users\hp\Downloads\harvconnect_ref_prices.csv')
+ref_prices = pd.read_csv('harvconnect_ref_prices.csv')
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371
