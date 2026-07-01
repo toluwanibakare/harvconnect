@@ -1,0 +1,115 @@
+market,region,latitude,longitude,commodity,price_per_kg_ghs
+Accra,GREATER ACCRA,5.55,-0.22,Eggplants,6.26
+Accra,GREATER ACCRA,5.55,-0.22,Onions,1.71
+Accra,GREATER ACCRA,5.55,-0.22,Peppers (dried),7.87
+Accra,GREATER ACCRA,5.55,-0.22,Peppers (fresh),10.22
+Accra,GREATER ACCRA,5.55,-0.22,Tomatoes (local),3.09
+Accra,GREATER ACCRA,5.55,-0.22,Tomatoes (navrongo),3.04
+Bolga,UPPER EAST,10.79,-0.85,Eggplants,5.28
+Bolga,UPPER EAST,10.79,-0.85,Onions,3.82
+Bolga,UPPER EAST,10.79,-0.85,Peppers (dried),2.86
+Bolga,UPPER EAST,10.79,-0.85,Peppers (fresh),14.36
+Bolga,UPPER EAST,10.79,-0.85,Tomatoes (local),5.54
+Bolga,UPPER EAST,10.79,-0.85,Tomatoes (navrongo),2.85
+Cape Coast,CENTRAL,5.11,-1.24,Eggplants,7.61
+Cape Coast,CENTRAL,5.11,-1.24,Onions,4.07
+Cape Coast,CENTRAL,5.11,-1.24,Peppers (dried),10.33
+Cape Coast,CENTRAL,5.11,-1.24,Peppers (fresh),4.91
+Cape Coast,CENTRAL,5.11,-1.24,Tomatoes (local),5.84
+Cape Coast,CENTRAL,5.11,-1.24,Tomatoes (navrongo),7.01
+Ejura,ASHANTI,7.38,-1.37,Eggplants,3.51
+Ejura,ASHANTI,7.38,-1.37,Onions,4.54
+Ejura,ASHANTI,7.38,-1.37,Peppers (dried),2.37
+Ejura,ASHANTI,7.38,-1.37,Peppers (fresh),15.59
+Ejura,ASHANTI,7.38,-1.37,Tomatoes (local),3.56
+Ejura,ASHANTI,7.38,-1.37,Tomatoes (navrongo),1.99
+Garu,UPPER EAST,10.85,-0.18,Eggplants,3.71
+Garu,UPPER EAST,10.85,-0.18,Onions,7.25
+Garu,UPPER EAST,10.85,-0.18,Peppers (dried),8.85
+Garu,UPPER EAST,10.85,-0.18,Peppers (fresh),4.1
+Garu,UPPER EAST,10.85,-0.18,Tomatoes (local),6.8
+Garu,UPPER EAST,10.85,-0.18,Tomatoes (navrongo),3.78
+Ho,VOLTA,6.6,0.47,Eggplants,14.52
+Ho,VOLTA,6.6,0.47,Onions,3.9
+Ho,VOLTA,6.6,0.47,Peppers (dried),4.93
+Ho,VOLTA,6.6,0.47,Peppers (fresh),13.6
+Ho,VOLTA,6.6,0.47,Tomatoes (local),3.34
+Ho,VOLTA,6.6,0.47,Tomatoes (navrongo),1.74
+Hohoe,VOLTA,7.15,0.47,Eggplants,15.12
+Hohoe,VOLTA,7.15,0.47,Onions,7.22
+Hohoe,VOLTA,7.15,0.47,Peppers (dried),16.36
+Hohoe,VOLTA,7.15,0.47,Peppers (fresh),10.02
+Hohoe,VOLTA,7.15,0.47,Tomatoes (local),5.04
+Hohoe,VOLTA,7.15,0.47,Tomatoes (navrongo),5.72
+Kintampo,BRONG AHAFO,8.06,-1.73,Eggplants,6.57
+Kintampo,BRONG AHAFO,8.06,-1.73,Onions,3.33
+Kintampo,BRONG AHAFO,8.06,-1.73,Peppers (dried),2.19
+Kintampo,BRONG AHAFO,8.06,-1.73,Peppers (fresh),9.83
+Kintampo,BRONG AHAFO,8.06,-1.73,Tomatoes (local),2.92
+Kintampo,BRONG AHAFO,8.06,-1.73,Tomatoes (navrongo),2.0
+Koforidua,EASTERN,6.08,-0.25,Eggplants,9.87
+Koforidua,EASTERN,6.08,-0.25,Onions,4.57
+Koforidua,EASTERN,6.08,-0.25,Peppers (dried),13.05
+Koforidua,EASTERN,6.08,-0.25,Peppers (fresh),27.38
+Koforidua,EASTERN,6.08,-0.25,Tomatoes (local),4.28
+Koforidua,EASTERN,6.08,-0.25,Tomatoes (navrongo),2.72
+Kumasi,ASHANTI,6.68,-1.62,Eggplants,9.02
+Kumasi,ASHANTI,6.68,-1.62,Onions,4.67
+Kumasi,ASHANTI,6.68,-1.62,Peppers (dried),13.9
+Kumasi,ASHANTI,6.68,-1.62,Peppers (fresh),12.22
+Kumasi,ASHANTI,6.68,-1.62,Tomatoes (local),3.4
+Kumasi,ASHANTI,6.68,-1.62,Tomatoes (navrongo),2.74
+Mankessim,CENTRAL,5.27,-1.02,Eggplants,4.11
+Mankessim,CENTRAL,5.27,-1.02,Onions,2.83
+Mankessim,CENTRAL,5.27,-1.02,Peppers (dried),4.89
+Mankessim,CENTRAL,5.27,-1.02,Peppers (fresh),1.95
+Mankessim,CENTRAL,5.27,-1.02,Tomatoes (local),6.69
+Mankessim,CENTRAL,5.27,-1.02,Tomatoes (navrongo),3.94
+Nkwanta,VOLTA,8.26,0.52,Eggplants,2.82
+Nkwanta,VOLTA,8.26,0.52,Onions,4.41
+Nkwanta,VOLTA,8.26,0.52,Peppers (dried),5.73
+Nkwanta,VOLTA,8.26,0.52,Peppers (fresh),9.32
+Nkwanta,VOLTA,8.26,0.52,Tomatoes (local),1.97
+Nkwanta,VOLTA,8.26,0.52,Tomatoes (navrongo),2.46
+Obuasi,ASHANTI,6.2,-1.67,Eggplants,3.1
+Obuasi,ASHANTI,6.2,-1.67,Onions,3.1
+Obuasi,ASHANTI,6.2,-1.67,Peppers (dried),5.54
+Obuasi,ASHANTI,6.2,-1.67,Peppers (fresh),17.96
+Obuasi,ASHANTI,6.2,-1.67,Tomatoes (local),5.39
+Obuasi,ASHANTI,6.2,-1.67,Tomatoes (navrongo),2.78
+Sekondi/Takoradi,WESTERN,4.93,-1.7,Eggplants,14.19
+Sekondi/Takoradi,WESTERN,4.93,-1.7,Onions,5.32
+Sekondi/Takoradi,WESTERN,4.93,-1.7,Peppers (dried),20.66
+Sekondi/Takoradi,WESTERN,4.93,-1.7,Peppers (fresh),17.48
+Sekondi/Takoradi,WESTERN,4.93,-1.7,Tomatoes (local),6.78
+Sekondi/Takoradi,WESTERN,4.93,-1.7,Tomatoes (navrongo),6.22
+Sunyani,BRONG AHAFO,7.33,-2.33,Eggplants,1.86
+Sunyani,BRONG AHAFO,7.33,-2.33,Onions,3.02
+Sunyani,BRONG AHAFO,7.33,-2.33,Peppers (dried),3.91
+Sunyani,BRONG AHAFO,7.33,-2.33,Peppers (fresh),11.52
+Sunyani,BRONG AHAFO,7.33,-2.33,Tomatoes (local),2.97
+Sunyani,BRONG AHAFO,7.33,-2.33,Tomatoes (navrongo),2.03
+Tamale,NORTHERN,9.4,-0.83,Eggplants,3.82
+Tamale,NORTHERN,9.4,-0.83,Onions,6.96
+Tamale,NORTHERN,9.4,-0.83,Peppers (dried),13.92
+Tamale,NORTHERN,9.4,-0.83,Peppers (fresh),17.95
+Tamale,NORTHERN,9.4,-0.83,Tomatoes (local),3.72
+Tamale,NORTHERN,9.4,-0.83,Tomatoes (navrongo),4.22
+Techiman,BRONG AHAFO,7.58,-1.93,Eggplants,7.16
+Techiman,BRONG AHAFO,7.58,-1.93,Onions,3.08
+Techiman,BRONG AHAFO,7.58,-1.93,Peppers (dried),10.62
+Techiman,BRONG AHAFO,7.58,-1.93,Peppers (fresh),9.6
+Techiman,BRONG AHAFO,7.58,-1.93,Tomatoes (local),2.84
+Techiman,BRONG AHAFO,7.58,-1.93,Tomatoes (navrongo),2.22
+Tema,GREATER ACCRA,5.62,-0.02,Eggplants,22.18
+Tema,GREATER ACCRA,5.62,-0.02,Onions,10.93
+Tema,GREATER ACCRA,5.62,-0.02,Peppers (dried),40.44
+Tema,GREATER ACCRA,5.62,-0.02,Peppers (fresh),23.96
+Tema,GREATER ACCRA,5.62,-0.02,Tomatoes (local),13.1
+Tema,GREATER ACCRA,5.62,-0.02,Tomatoes (navrongo),8.81
+Wa,UPPER WEST,10.05,-2.48,Eggplants,12.36
+Wa,UPPER WEST,10.05,-2.48,Onions,3.1
+Wa,UPPER WEST,10.05,-2.48,Peppers (dried),2.89
+Wa,UPPER WEST,10.05,-2.48,Peppers (fresh),9.12
+Wa,UPPER WEST,10.05,-2.48,Tomatoes (local),4.54
+Wa,UPPER WEST,10.05,-2.48,Tomatoes (navrongo),3.36
